@@ -1,2 +1,2 @@
 # clone-tabnews-backend
-Implementation of [TabNews](https://www.tabnews.com.br) backend for training
+Implementation of [TabNews](https://www.tabnews.com.br) for training
